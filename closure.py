@@ -1,5 +1,5 @@
 def outer(firstName):
-    middleName = "kumarr"
+    middleName = "kumar"
 
     def inner1(lastName):
         return firstName + " " + middleName + " " + lastName
